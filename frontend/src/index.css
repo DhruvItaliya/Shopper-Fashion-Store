@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+  body{
+    font-family: poppins;
+  }
+  
+*{
+    margin:0px;
+}
